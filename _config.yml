@@ -1,0 +1,15 @@
+
+title: IDFAE
+email: IDFAE2013@gmail.com
+
+description: "TEST"
+
+
+
+baseurl: ""
+url: "https://github.com/IDFAE"
+twitter_username: iacs00
+github_username:  IDFAE
+
+# Build settings
+markdown: kramdown
